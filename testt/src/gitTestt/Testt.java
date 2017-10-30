@@ -3,6 +3,6 @@ package gitTestt;
 public class Testt {
 public static void main(String[] args) {
 	System.out.println("hello git");
-System.out.println("Ãß°¡ÀÛ¾÷À» ÇÏ¿´½À´Ï´Ù");
+System.out.println("ë‘ë²ˆì§¸ ì‘ì—…");
 }
 }
